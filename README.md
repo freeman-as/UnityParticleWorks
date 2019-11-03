@@ -1,1 +1,1 @@
-"# UnityParticleWorks." 
+"# UnityParticleWorks" 
